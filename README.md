@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-hbyIEg77vH)
+- Live Site URL: [Live Site URL here](https://khanoubas1811.github.io/product_card/)
 
 ## My process
 
